@@ -1,0 +1,8 @@
+## .gitignore file for bgfx-genie.workspace
+
+## ignore folder fetched through gclient
+bgfx
+bimg
+bnet
+bx
+genie
